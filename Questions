@@ -1,0 +1,35 @@
+Number Questions:
+1. Check whether a number is prime or not
+2. Find the factorial of a number
+3. Check whether a number is a palindrome
+4. Find the sum of digits of a number
+5. Print all divisors of a number
+6. Check whether a number is an Armstrong number
+7. Print all prime numbers in a given range
+8. Find GCD and LCM of two numbers
+9. Convert decimal to binary (without built-in functions)
+10. Check whether a number is a perfect number
+
+String Questions:
+1. Reverse a string
+2. Check whether a string is a palindrome
+3. Count vowels and consonants in a string
+4. Convert string to uppercase without using built-in functions
+5. Find the length of string without using len()
+6. Check whether two strings are anagrams
+7. Find the first non-repeating character
+8. Count frequency of each character
+9. Remove duplicate characters from a string
+10. Find the longest word in a sentence
+
+Array Questions:
+1. Find the maximum and minimum element in an array
+2. Calculate the sum of elements in an array
+3. Reverse an array
+4. Find the second largest element in an array
+5. Count even and odd numbers in an array
+6. Find all pairs with given sum (Two Sum problem)
+7. Move all zeros to end of array
+8. Find duplicate elements in array
+9. Merge two sorted arrays
+10. Find missing number in an array (1 to n)
